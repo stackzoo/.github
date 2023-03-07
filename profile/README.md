@@ -8,5 +8,7 @@
 
 We are an *independent* cloud native and open source consultancy firm ☸ ☁️
 
+Learn more about as <a href="https://www.stackzoo.io/about">here</a>
+
 Contact us at info@stackzoo.io
 
