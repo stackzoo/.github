@@ -11,4 +11,8 @@ We are an *independent* cloud native and open source consultancy firm ☸ ☁️
 Learn more about as <a href="https://www.stackzoo.io/about">here</a>
 
 Contact us at info@stackzoo.io
+</br>
+or
+</br>
+via the <a href="https://stackzoo.slack.com">official</a> slack channel
 
