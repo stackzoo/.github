@@ -14,5 +14,11 @@ Contact us at info@stackzoo.io
 </br>
 or
 </br>
-via the <a href="https://stackzoo.slack.com">official</a> slack channel
+via the <a href="https://stackzoo.slack.com">official</a> slack channel.
+
+</br>
+
+We operate and maintain our own instance of a full *₿itcoin* and *Lightning*⚡ node!  
+If you'd like to buy us a ☕, you can send some *sats* to me@ln.stackzoo.io.
+
 
