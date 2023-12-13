@@ -10,7 +10,7 @@ We are an *independent* cloud native and open source consultancy community â˜¸ â
 
 Learn more about as <a href="https://www.stackzoo.io/about">here</a>
 
-Contact us at info@stackzoo.io
+Contact us at hello@stackzoo.io
 </br>
 or
 </br>
