@@ -14,7 +14,7 @@ Contact us at info@stackzoo.io
 </br>
 or
 </br>
-via the <a href="https://stackzoo.slack.com">official</a> slack channel.
+via the [official](https://join.slack.com/t/stackzooio/shared_invite/zt-296130a40-GXVF2AKuHgfWhvFj4t8oiQ) slack channel.
 
 </br>
 
