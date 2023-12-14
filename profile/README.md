@@ -6,9 +6,12 @@
 
 ![Alt Text](https://media.giphy.com/media/WTO8QA0mX2Cfw5vhkp/giphy.gif)
 
-We are an *independent* cloud native and open source consultancy community ☸ ☁️
+We are an independent consultancy community specializing in **distributed systems**, **FOSS** and **freedom technologies**.  
+We possess a strong technological background focused on *software development*, *DevSecOps*, *cloud-native systems* and other key areas.  
+</br>
+**We are on a mission to make Bitcoin accessible to everyone.**
 
-Learn more about as <a href="https://www.stackzoo.io/about">here</a>
+Learn more about as <a href="https://www.stackzoo.io/">here</a>
 
 Contact us at hello@stackzoo.io
 </br>
