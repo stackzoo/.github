@@ -1,25 +1,26 @@
 # sTackZoo
 
 
-🦍🐘 Welcome to sTackZoo 🦘🐅
+🦍⚡🐘 Welcome to sTackZoo 🦘⚡🐅
 
 
 ![Alt Text](https://media.giphy.com/media/WTO8QA0mX2Cfw5vhkp/giphy.gif)
 
 We are an independent consultancy community specializing in **distributed systems**, **FOSS** and **freedom technologies**.  
-We possess a strong technological background focused on *software development*, *DevSecOps*, *cloud-native systems* and other key areas.  
-</br>
-**We are on a mission to make Bitcoin accessible to everyone.**
+We have chosen to leverage our strong engineering background (software development, DevSecOps, cloud-native infrastructure) for a singular purpose:  
+<br/>
+**Onboarding as many individuals as possible to Bitcoin.**  
+
 
 Learn more about as <a href="https://www.stackzoo.io/">here</a>
 
 Contact us at hello@stackzoo.io
-</br>
+<br/>
 or
-</br>
+<br/>
 via the [official](https://join.slack.com/t/stackzooio/shared_invite/zt-296130a40-GXVF2AKuHgfWhvFj4t8oiQ) slack channel.
 
-</br>
+<br/>
 
 We operate and maintain our own instance of a full *₿itcoin* and *Lightning*⚡ node!  
 If you'd like to buy us a ☕ you can send some *sats* to me@ln.stackzoo.io.  
