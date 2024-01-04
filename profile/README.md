@@ -13,7 +13,7 @@ Additionally, we also focus on modern, distributed, and cloud-native infrastruct
 
 
 
-Learn more about as <a href="https://www.stackzoo.io/">here</a>
+Learn more about us <a href="https://www.stackzoo.io/">here</a>
 
 Contact us at hello@stackzoo.io
 <br/>
