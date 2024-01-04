@@ -7,9 +7,10 @@
 ![Alt Text](https://media.giphy.com/media/WTO8QA0mX2Cfw5vhkp/giphy.gif)
 
 We are an independent consultancy community specializing in **distributed systems**, **FOSS** and **freedom technologies**.  
-We have chosen to leverage our strong engineering background (software development, DevSecOps, cloud-native infrastructure) for a singular purpose:  
-<br/>
-**Onboarding as many individuals as possible to Bitcoin.**  
+
+Through this GitHub organization, we primarily produce projects and Proof of Concepts related to the Bitcoin ecosystem.  
+Additionally, we also focus on modern, distributed, and cloud-native infrastructures in a broader sense.  
+
 
 
 Learn more about as <a href="https://www.stackzoo.io/">here</a>
